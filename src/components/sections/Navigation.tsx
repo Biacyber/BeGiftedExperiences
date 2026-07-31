@@ -1,6 +1,5 @@
 import { useScroll } from "@/hooks/use-scroll";
 import { cn } from "@/lib/utils";
-import crestPng from "@assets/gallery/crest.png";
 
 export function Navigation() {
   const scrollY = useScroll();
@@ -26,7 +25,7 @@ export function Navigation() {
           className="w-10 h-10 flex-shrink-0 rounded-full ring-2 ring-[#C8A46A]/70 ring-offset-2 ring-offset-primary/80 shadow-[0_0_16px_rgba(200,164,106,0.4)] transition-transform duration-500 hover:scale-105 hover:opacity-80"
           aria-label="Home"
         >
-          <img src={crestPng} alt="B&G Logo" className="block w-full h-full object-contain rounded-full" />
+          <img src="/gallery/Engagement3.png" alt="B&G Logo" className="block w-full h-full object-contain rounded-full" />
         </button>
 
         <div className="hidden md:flex items-center gap-8">
