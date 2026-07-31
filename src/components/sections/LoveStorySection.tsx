@@ -14,7 +14,6 @@ export function LoveStorySection() {
           {/* Champagne gold mat frame — leading-[0] eliminates inline descender gap */}
           <div className="relative z-10 w-full h-full p-3 leading-[0] bg-[#C8A46A]/20 border border-[#C8A46A]/60 rounded-sm shadow-[0_8px_40px_rgba(200,164,106,0.2)]">
             <img 
-              <img
               src="/gallery/hands-embrace.jpg" 
               alt="Beauty and Gift holding hands" 
               className="block w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-1000 rounded-sm"
