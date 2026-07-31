@@ -4,28 +4,24 @@ import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
 
 const carouselImages = [
   {
-    src: "/gallery/gallery-6.jpg",
-    alt: "More Moments",
+    src: "/gallery/moment-1.jpg",
+    alt: "More Moment 1",
   },
   {
-    src: "/gallery/gallery-7.jpg",
-    alt: "Celebration",
+    src: "/gallery/moment-2.jpg",
+    alt: "More Moment 2",
   },
   {
-    src: "/gallery/hands-embrace.jpg",
-    alt: "Hands Embrace",
+    src: "/gallery/moment-3.jpg",
+    alt: "More Moment 3",
   },
   {
-    src: "/gallery/laughing-embrace.jpg",
-    alt: "Laughing Together",
+    src: "/gallery/moment-4.jpg",
+    alt: "More Moment 4",
   },
   {
-    src: "/gallery/night-embrace.jpg",
-    alt: "Night Embrace",
-  },
-  {
-    src: "/gallery/proposal.jpg",
-    alt: "The Proposal",
+    src: "/gallery/moment-5.jpg",
+    alt: "More Moment 5",
   },
 ];
 
