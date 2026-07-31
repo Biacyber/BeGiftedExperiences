@@ -2,13 +2,6 @@ import { useState } from "react";
 import { useIntersectionObserver } from "@/hooks/use-intersection-observer";
 import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
 import { GalleryCarousel } from "@/components/sections/GalleryCarousel";
-import proposalJpg from "@assets/gallery/proposal.jpg";
-import nightEmbraceJpg from "@assets/gallery/night-embrace.jpg";
-import laughingEmbraceJpg from "@assets/gallery/laughing-embrace.jpg";
-import handsEmbraceJpg from "@assets/gallery/hands-embrace.jpg";
-import gallery6Jpg from "@assets/gallery/gallery-6.jpg";
-import gallery7Jpg from "@assets/gallery/gallery-7.jpg";
-import gallery8Jpg from "@assets/gallery/gallery-8.jpg";
 
 const images = [
   { src: "/gallery/proposal.jpg", alt: "The proposal beneath the rose arch" },
