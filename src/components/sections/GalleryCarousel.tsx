@@ -4,24 +4,28 @@ import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
 
 const carouselImages = [
   {
-    src: "/gallery/gallery-walk.png",
-    alt: "Beauty and Gift walking hand in hand",
+    src: "/gallery/gallery-6.jpg",
+    alt: "More Moments",
   },
   {
-    src: "/gallery/gallery-dance.png",
-    alt: "A tender embrace beneath the sky",
+    src: "/gallery/gallery-7.jpg",
+    alt: "Celebration",
   },
   {
-    src: "/gallery/gallery-street.png",
-    alt: "Stolen glance on the avenue",
+    src: "/gallery/hands-embrace.jpg",
+    alt: "Hands Embrace",
   },
   {
-    src: "/gallery/gallery-beauty.png",
-    alt: "Beauty — radiant and ready",
+    src: "/gallery/laughing-embrace.jpg",
+    alt: "Laughing Together",
   },
   {
-    src: "/gallery/gallery-gift.png",
-    alt: "Gift — the groom in his element",
+    src: "/gallery/night-embrace.jpg",
+    alt: "Night Embrace",
+  },
+  {
+    src: "/gallery/proposal.jpg",
+    alt: "The Proposal",
   },
 ];
 
