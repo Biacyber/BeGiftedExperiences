@@ -11,13 +11,13 @@ import gallery7Jpg from "@assets/gallery/gallery-7.jpg";
 import gallery8Jpg from "@assets/gallery/gallery-8.jpg";
 
 const images = [
-  { src: proposalJpg, alt: "The proposal beneath the rose arch" },
-  { src: laughingEmbraceJpg, alt: "Beauty and Gift sharing a laugh" },
-  { src: gallery6Jpg, alt: "Engagement moment" },
-  { src: handsEmbraceJpg, alt: "A quiet embrace" },
-  { src: gallery7Jpg, alt: "Engagement moment" },
-  { src: nightEmbraceJpg, alt: "Beneath the city lights" },
-  { src: gallery8Jpg, alt: "Engagement moment" },
+  { src: "/gallery/proposal.jpg", alt: "The proposal beneath the rose arch" },
+  { src: "/gallery/laughing-embrace.jpg", alt: "Beauty and Gift sharing a laugh" },
+  { src: "/gallery/gallery-6.jpg", alt: "Engagement moment" },
+  { src: "/gallery/hands-embrace.jpg", alt: "A quiet embrace" },
+  { src: "/gallery/gallery-7.jpg", alt: "Engagement moment" },
+  { src: "/gallery/night-embrace.jpg", alt: "Beneath the city lights" },
+  { src: "/gallery/gallery-8.jpg", alt: "Engagement moment" }
 ];
 
 export function GallerySection() {
