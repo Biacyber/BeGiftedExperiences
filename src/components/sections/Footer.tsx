@@ -4,8 +4,8 @@ export function Footer() {
   return (
     <footer className="bg-foreground py-6 px-6 flex flex-col items-center justify-center text-center text-background gap-3">
       <img
-        src={crestPng}
-        alt="B&G Logo"
+        src="/gallery/Engagement3.png"
+        alt="BeGifted crest"
         className="block w-12 h-12 rounded-full ring-2 ring-[#C8A46A]/70 ring-offset-2 ring-offset-foreground shadow-[0_0_20px_rgba(200,164,106,0.3)]"
       />
       <h3 className="font-serif text-lg tracking-widest uppercase">
